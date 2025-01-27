@@ -1,8 +1,9 @@
 /*
-Lab 3 - simple TDD with math functions
+Lab Unit testing simple TDD with math functions
 Starter file
 Create the following functions as per the instructions below.
-Read the test cases carefully and write the functions accordingly.
+Create a folder named tests on the root folder 
+then create a file named lab-TDD-starter.test.js
 NOTE: The name of the functions have
 to match the exported names mentioned at the end of this file
 in order to pass the test cases.
